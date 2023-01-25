@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-summit-prep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnriqueGS88/nodejs-summit-prep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnriqueGS88/nodejs-summit-prep/issues"
+  },
+  "homepage": "https://github.com/EnriqueGS88/nodejs-summit-prep#readme",
+  "dependencies": {
+    "convert-array-to-csv": "^2.0.0",
+    "fs-extra": "^11.1.0",
+    "puppeteer": "^19.5.2"
+  }
+}
