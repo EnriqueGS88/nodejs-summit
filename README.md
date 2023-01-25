@@ -3,8 +3,9 @@
 ## Intro
 
 - I'm a Solution Manager at SAP Signavio
-- Due to the nature of the data, we had to test manually
-- Huge opportunity for automation
+- SAP Signavio [Process Insights](https://www.signavio.com/products/process-insights/)
+- Due to the nature of the data, we had to test 'manually' 🐒
+- Huge opportunity for automation 🤖
 
 ## What is Puppeteer
 
@@ -33,4 +34,4 @@
 - [Puppeteer Documentation](https://pptr.dev/)
 - [Stay in touch 👋](https://www.linkedin.com/in/heykike/)
 - [Sandbox 1](https://toscrape.com/)
--[Sandbox 2](https://www.scrapethissite.com/)
+- [Sandbox 2](https://www.scrapethissite.com/)
