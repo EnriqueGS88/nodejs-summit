@@ -32,3 +32,5 @@
 
 - [Puppeteer Documentation](https://pptr.dev/)
 - [Stay in touch 👋](https://www.linkedin.com/in/heykike/)
+- [Sandbox 1](https://toscrape.com/)
+-[Sandbox 2](https://www.scrapethissite.com/)
